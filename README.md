@@ -1,7 +1,7 @@
 # Emergency-ISL-Service-Provider
 
 ## Dataset:-
-**Indian Sign Language Dataset reference - **
+**Indian Sign Language Dataset reference -**
 https://indiansignlanguage.org/ 
 
 ## Signs:-
