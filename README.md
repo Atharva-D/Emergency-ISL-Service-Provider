@@ -37,7 +37,7 @@ The ML model used can efficiently detect the ISL signs, with an accuracy of 98%.
 The next step for With You has to be the inclusion of many more dynamic ISL signs, making With You a leading solution for accessibility issues our fellow humans face. Deploying the same model on an Android/ IOS application will also be a part of With You's future scope.
 
 ## How to use the Website
-->Click on the Detect Sign button.
+->Click on the Detect Sign button on the website
 ->Wait for 2-3 minutes for the camera to be switched on.
 ->Once switched on, place your hands in front of the camera and look for the hand tracker to appear on your hand.
 ->Show the emergency sign. Detected sign will be shown on the top of the frame.
